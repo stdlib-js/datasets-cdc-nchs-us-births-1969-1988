@@ -287,8 +287,8 @@ Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
 [npm-image]: http://img.shields.io/npm/v/@stdlib/datasets-cdc-nchs-us-births-1969-1988.svg
 [npm-url]: https://npmjs.org/package/@stdlib/datasets-cdc-nchs-us-births-1969-1988
 
-[test-image]: https://github.com/stdlib-js/datasets-cdc-nchs-us-births-1969-1988/actions/workflows/test.yml/badge.svg?branch=main
-[test-url]: https://github.com/stdlib-js/datasets-cdc-nchs-us-births-1969-1988/actions/workflows/test.yml?query=branch:main
+[test-image]: https://github.com/stdlib-js/datasets-cdc-nchs-us-births-1969-1988/actions/workflows/test.yml/badge.svg?branch=v0.2.0
+[test-url]: https://github.com/stdlib-js/datasets-cdc-nchs-us-births-1969-1988/actions/workflows/test.yml?query=branch:v0.2.0
 
 [coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/datasets-cdc-nchs-us-births-1969-1988/main.svg
 [coverage-url]: https://codecov.io/github/stdlib-js/datasets-cdc-nchs-us-births-1969-1988?branch=main
